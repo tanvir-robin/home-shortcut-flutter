@@ -10,7 +10,8 @@ This Flutter project enhances **user retention** by implementing **Quick Actions
 ✅ **📱 Can handle the shortcut button taps and navigate to specific screen**  
 
 ## 📸 Preview  
-![Simulator Screenshot - iPhone 15 Pro - 2025-02-18 at 19 24 13](https://github.com/user-attachments/assets/8b26f7be-5547-4e89-96d7-061cc2e5573b)
+<img src="https://github.com/user-attachments/assets/8b26f7be-5547-4e89-96d7-061cc2e5573b" width="400">
+
 
 
 ## 🌐 Connect with Me  
