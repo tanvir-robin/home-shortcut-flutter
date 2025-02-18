@@ -16,7 +16,7 @@ This Flutter project enhances **user retention** by implementing **Quick Actions
 
 ## 🌐 Connect with Me  
 🔗 **Portfolio:** [tanvirrobin.tech](https://tanvirrobin.tech)  
-📌 **GitHub:** [github.com/tanvir-robin](https://github.com/tanvir-robin)  
+📌 **LinkedIn:** [linkedin.com/in/tanvir-robin/](https://www.linkedin.com/in/tanvir-robin/)  
 
 ---
 
